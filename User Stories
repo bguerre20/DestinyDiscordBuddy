@@ -2,3 +2,5 @@
  - As a user I want to be able to ask DBB for a list of mods I don't own and will be reminded about.
  - As a user I want to be able to configure an "important" list of mods I want to be notified on more aggressivly.
  - As a user I want to be able to configure an "ignore" list of mods I don't care about even if I don't have them.
+ - As a user I want to be messaged by DDB and have it tell me what ADA is selling today.
+ - As a user I want to be messaged by DDB and have it tell me what Banshee is selling today.
